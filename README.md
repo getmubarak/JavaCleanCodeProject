@@ -1,4 +1,4 @@
-# JavaCleanCodeProject
+# Dynamic Time Table Generation
 
 Making a class schedule is one of those NP hard problems. The problem can be solved using a heuristic search algorithm to find the optimal solution, but it only works for simple cases. For more complex inputs and requirements, finding a considerably good solution can take a while, or it may be impossible. This is where genetic algorithms come in to the game.
 
